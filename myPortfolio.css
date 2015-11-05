@@ -1,6 +1,10 @@
-h1 {
-    font-family:"papyrus";
+h1, h2, ul, li {
+    font-family:"lucida handwriting";
+    text-align: center;
 }
 body{
     background-image: url("images/Abstract_Flow_Backgrounds/bg20_6.jpg");
+}
+ul{
+    list-style-type: none;
 }
