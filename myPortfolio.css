@@ -1,9 +1,11 @@
-h1, h2, ul, li {
+h1, h2, ul, li, .links {
     font-family:"lucida handwriting";
     text-align: center;
+    
 }
 body{
-    background-image: url("images/Abstract_Flow_Backgrounds/bg20_6.jpg");
+    background-image: url("images/bg18_1.jpg");
+    
 }
 ul{
     list-style-type: none;
