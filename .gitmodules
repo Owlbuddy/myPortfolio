@@ -1,3 +1,15 @@
 [submodule "basicwebsite"]
 	path = basicwebsite
 	url = ../basicwebsite
+[submodule "fizzbuzz"]
+	path = fizzbuzz
+	url = ../fizzbuzz
+[submodule "pair-project"]
+	path = pair-project
+	url = ../pair-project
+[submodule "SPICEGIRLS-WEBPAGE"]
+	path = SPICEGIRLS-WEBPAGE
+	url = ../SPICEGIRLS-WEBPAGE
+[submodule "Bowling-Kata"]
+	path = Bowling-Kata
+	url = ../Bowling-Kata
