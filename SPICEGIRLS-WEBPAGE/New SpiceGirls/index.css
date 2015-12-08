@@ -1,0 +1,18 @@
+.heading {
+    color: steelblue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.center{
+     
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+body{
+    background-image: url("images/light-tile.gif");
+}
+p{
+    color:darkblue;
+}

@@ -1,0 +1,73 @@
+.spicegirl1 {
+    width: 200px; 
+    height: 228px;
+    background: url('images/victoria.gif') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl1:hover{ 
+    width: 200px; 
+    height: 228px;
+    background: url('images/victoria.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl2 {
+    width: 200px; 
+    height: 228px;
+    background: url('images/melanie.gif') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl2:hover{ 
+    width: 200px; 
+    height: 228px;
+    background: url('images/melanie.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+.spicegirl3 {
+    width: 200px; 
+    height: 228px;
+    background: url('images/emma.gif') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl3:hover{ 
+    width: 200px; 
+    height: 228px;
+    background: url('images/emma.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+.spicegirl4 {
+    width: 200px; 
+    height: 228px;
+    background: url('images/mel.gif') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl4:hover{ 
+    width: 200px; 
+    height: 228px;
+    background: url('images/mel.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+.spicegirl5 {
+    width: 200px; 
+    height: 228px;
+    background: url('images/GERALDINE.gif') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl5:hover{ 
+    width: 200px; 
+    height: 228px;
+    background: url('images/GERALDINE.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+td {
+    color: blue;
+    width: 200px;
+}
+body{
+    background-image: url("images/light-tile.gif");
+}
