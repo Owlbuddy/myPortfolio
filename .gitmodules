@@ -1,0 +1,3 @@
+[submodule "basicwebsite"]
+	path = basicwebsite
+	url = ../basicwebsite
